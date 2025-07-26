@@ -8,7 +8,7 @@
 ### 🛠️ Tech Skills
 - Programming: C, Python (Beginner)
 - Tools: Git, GitHub, AutoCAD, Proteus
-- Learning: PLC, SCADA
+- Learning: PLC basics
 
 ### 📂 Projects
 - [Mini Calculator in Python](https://github.com/your-repo)
